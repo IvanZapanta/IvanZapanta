@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# Welcome to Ivan's Profile!
-
 ## 👋 Hello, I'm Ivan!
 - **🚀 About Me
 Welcome to my GitHub profile! I'm a software developer who loves to explore new technologies and continuously improve my coding skills. Here, you’ll find a mix of my personal projects, collaborative work, and contributions to various repositories.
