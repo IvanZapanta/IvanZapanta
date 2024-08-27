@@ -1,12 +1,13 @@
 # Welcome to my Github Profile!
 
 ## 👋 Hello, I'm Ivan!
-- **🚀 About Me
+
+## 🚀 About Me
 I’m a software developer who enjoys discovering new technologies and improving my coding skills. I love experimenting with different programming languages and tools to find the best solutions to problems. Here, you’ll find a mix of my personal projects, which showcase my creativity and technical abilities. I also share collaborative work where I’ve teamed up with others to build something useful or solve a complex issue. My goal is to keep growing as a developer and to contribute to the growing tech industry. Feel free to explore my work and reach out if you have any questions or want to collaborate.
 
 ## 🔧 Technologies & Tools
 Here's a quick snapshot of the technologies and tools I use and love:
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white)
@@ -32,15 +33,12 @@ Here's a quick snapshot of the technologies and tools I use and love:
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-
 ## 🛠️ Projects
 Feel free to check out some of my projects in the repositories section!
-
 
 ## 🔗 Connect with Me
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ivan-joshua-zapanta/)
 - 🌐 [Personal Website/Blog](https://ivan-zapanta.vercel.app/)
-
 
 Thanks for stopping by my GitHub profile! Don’t hesitate to reach out if you have any questions or just want to chat about technology. Happy coding! 🚀
 
