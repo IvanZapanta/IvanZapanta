@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-# Welcome to [Your GitHub Username]'s Profile!
+# Welcome to Ivan's Profile!
 
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Ivan!
+- **🚀 About Me
 Welcome to my GitHub profile! I'm a software developer who loves to explore new technologies and continuously improve my coding skills. Here, you’ll find a mix of my personal projects, collaborative work, and contributions to various repositories.
 
-- **🚀 About Me
-- **🔭 Currently working on: Doing React projects
-- **🌱 Learning: JavaScript, React
-- **💬 Ask me about: Frontend development, JavaScript frameworks, React best practices, web performance optimization and technology in general.
 
 ## 🔧 Technologies & Tools
 Here's a quick snapshot of the technologies and tools I use and love:
@@ -40,7 +37,7 @@ Feel free to check out some of my projects in the repositories section!
 
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ivan-joshua-zapanta/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ivan-joshua-zapanta/)
 - 🌐 [Personal Website/Blog](https://ivan-zapanta.vercel.app/)
 
 
