@@ -2,7 +2,6 @@
 
 ## 👋 Hello, I'm Ivan!
 
-## 🚀 About Me
 I’m a software developer who enjoys discovering new technologies and improving my coding skills. I love experimenting with different programming languages and tools to find the best solutions to problems. Here, you’ll find a mix of my personal projects, which showcase my creativity and technical abilities. I also share collaborative work where I’ve teamed up with others to build something useful or solve a complex issue. My goal is to keep growing as a developer and to contribute to the growing tech industry. Feel free to explore my work and reach out if you have any questions or want to collaborate.
 
 ## 🔧 Technologies & Tools
