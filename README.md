@@ -8,7 +8,6 @@ I’m a software developer who enjoys discovering new technologies and improving
 Here's a quick snapshot of the technologies and tools I use and love:
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -31,13 +30,14 @@ Here's a quick snapshot of the technologies and tools I use and love:
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ## 🛠️ Projects
 Feel free to check out some of my projects in the repositories section!
 
-## 🔗 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ivan-joshua-zapanta/)
-- 🌐 [Personal Website/Blog](https://ivan-zapanta.vercel.app/)
+## 🔗 Lets's Connect!
+- ![LinkedIn] (https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ivan-joshua-zapanta/)
+- 🌐  [Portfolio Website](https://ivan-zapanta.vercel.app/)
 
 Thanks for stopping by my GitHub profile! Don’t hesitate to reach out if you have any questions or just want to chat about technology. Happy coding! 🚀
 
