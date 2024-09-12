@@ -36,7 +36,7 @@ Here's a quick snapshot of the technologies and tools I use and love:
 Feel free to check out some of my projects in the repositories section!
 
 ## 🔗 Lets's Connect!
-- ![LinkedIn] (https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ivan-joshua-zapanta/)
+- ![LinkedIn] (https://www.linkedin.com/in/ivan-joshua-zapanta/)
 - 🌐  [Portfolio Website](https://ivan-zapanta.vercel.app/)
 
 Thanks for stopping by my GitHub profile! Don’t hesitate to reach out if you have any questions or just want to chat about technology. Happy coding! 🚀
